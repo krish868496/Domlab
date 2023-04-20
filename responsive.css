@@ -6,11 +6,7 @@
   section#service .bi{
     margin-left: 3rem;
   }
-  .footer{
-    padding: 2rem 0rem;
-    text-align: center;
-    
-  }
+
     
 }
 
@@ -54,15 +50,8 @@
   section#feature .container .row .main img {
     width: 250px;
   }
-  /* Feature  */
-  section#feature .container .row .main img {
-    width: 400px;
-    height: 322px;
-}
-  section#feature .container .row .main .content {
-    top: 130px;
-    left: 175px;
-}
+ 
+
 
 }
 @media screen and (max-width:575px) {
