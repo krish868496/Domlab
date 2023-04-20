@@ -6,3 +6,6 @@ navbar.forEach(function(e){
         navcolapse.classList.remove('show');
     })
 })
+
+
+
